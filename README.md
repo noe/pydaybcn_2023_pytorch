@@ -15,4 +15,5 @@ Noé Casas
 
 * PhD in artificial intelligence for machine translation.
 * 15 year of experience as software dev, 2 years as data scientist, 5 years with NLP and deep learning.
-* Solo founder of Langtern, a language learning app for teachers and students: https://langtern.com 
+* Solo founder of Langtern, a language learning app for teachers and students: https://langtern.com
+
